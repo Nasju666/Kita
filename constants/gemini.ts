@@ -1,4 +1,4 @@
 // ─── Groq API Key ─────────────────────────────────────────────────
 // Get your FREE key at: https://console.groq.com/keys
 // No credit card needed — generous free tier (14,400 req/day on Llama)
-export const GROQ_API_KEY = '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';
+// export const GROQ_API_KEY = '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';
