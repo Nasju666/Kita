@@ -1,0 +1,91 @@
+================================================================================
+                        KITA — PITCH DECK (3 SLIDES)
+          AI-Powered Smart POS & Financial Intelligence System
+                    Built for Filipino Micro-Entrepreneurs
+          RAFI MFI Microfinance Innovation Challenge · April 29, 2026
+================================================================================
+
+--------------------------------------------------------------------------------
+SLIDE 1 — THE PROBLEM
+--------------------------------------------------------------------------------
+
+  5.6 MILLION micro-enterprises in the Philippines.
+  Most are INVISIBLE to financial institutions.
+
+  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
+  │   OPERATIONS    │  │    FINANCES     │  │   TRUST GAP     │
+  ├─────────────────┤  ├─────────────────┤  ├─────────────────┤
+  │ Sales on paper  │  │ No income proof │  │ Lenders can't   │
+  │ No inventory    │  │ Cannot show     │  │ verify if the   │
+  │ tracking        │  │ revenue to      │  │ business is     │
+  │ Owners don't    │  │ lenders         │  │ real or if      │
+  │ know their      │  │ Excluded from   │  │ data is true    │
+  │ actual profit   │  │ loans despite   │  │                 │
+  │                 │  │ operating well  │  │ → Loan rejected │
+  └─────────────────┘  └─────────────────┘  └─────────────────┘
+
+  "Small businesses remain invisible and untrusted by the financial
+   system — not because they fail, but because they have no proof
+   they succeed."
+
+--------------------------------------------------------------------------------
+SLIDE 2 — OUR SOLUTION: KITA
+--------------------------------------------------------------------------------
+
+  KITA is a mobile-first, AI-powered platform that gives small
+  Filipino business owners three things — in one app.
+
+  ┌──────────────────────────────────────────────────────────────┐
+  │  [1] DIGITAL OPERATIONS                                      │
+  │      Smart POS (Tindera mode) · OCR Receipt Scanner          │
+  │      Real-time Inventory · Automatic Change Calculation      │
+  ├──────────────────────────────────────────────────────────────┤
+  │  [2] FINANCIAL INTELLIGENCE                                  │
+  │      Groq AI (Llama 3.3 70B) · Daily Taglish Insights       │
+  │      7-day trend analysis · Top sellers · Spending patterns  │
+  ├──────────────────────────────────────────────────────────────┤
+  │  [3] CREDIT IDENTITY — RAFI MFI READY                       │
+  │      KYC Verification (Basic / With Business Permit)         │
+  │      Loan Readiness Score 0–100 · PDF Export for RAFI        │
+  │      Ratings: Mahirap · Sapat · Maganda · Mahusay            │
+  │      Matches user to: Mauswagon, Kabuhayan, SAGIP & more     │
+  └──────────────────────────────────────────────────────────────┘
+
+  STACK: React Native + Expo · Firebase Auth/Firestore/Storage
+         Groq AI (text + vision OCR) · expo-print PDF export
+
+  STATUS: Functional prototype — live on Android
+
+--------------------------------------------------------------------------------
+SLIDE 3 — THE IMPACT
+--------------------------------------------------------------------------------
+
+  ┌──────────────────────┐  ┌──────────────────────┐
+  │  FOR NEGOSYANTE      │  │  FOR RAFI MFI         │
+  ├──────────────────────┤  ├──────────────────────┤
+  │ Save 1–2 hrs/day     │  │ Pre-screened,         │
+  │ Real-time profit     │  │ KYC-verified          │
+  │ visibility           │  │ applicants            │
+  │ First-ever verified  │  │ Real transaction      │
+  │ financial identity   │  │ data — not            │
+  │ Clear path to loan   │  │ self-reported         │
+  │ qualification        │  │ Reduced fraud risk    │
+  └──────────────────────┘  └──────────────────────┘
+
+  Financial inclusion for 5.6M micro-enterprises in the Philippines.
+
+  ────────────────────────────────────────────────────────────────
+  Every karenderya has a story.
+  Every sari-sari store has a profit.
+  Every owner deserves a chance to prove it.
+
+  KITA makes that possible.
+
+  "From verified identity to verified income —
+   trusted access to credit."
+
+  KITA · Built for the Negosyante ng Pilipinas
+  Powered by RAFI MFI · Groq AI · Firebase
+  ────────────────────────────────────────────────────────────────
+
+================================================================================
